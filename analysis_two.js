@@ -15,3 +15,4 @@ const password = "1237";
 console.log(password); // sensitive
 console.log(password); // sensitive
 console.log(password); // sensitive
+console.log(password); // sensitive

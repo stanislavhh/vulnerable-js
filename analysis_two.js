@@ -10,6 +10,7 @@ const iv = "12345";
 
 crypto.createCipheriv("DES", key, iv); // Noncompliant
 crypto.createCipheriv("DES", key, iv); // Noncompliant
+crypto.createCipheriv("DES", key, iv); // Noncompliant
 
 const password = "1237";
 console.log(password); // sensitive
